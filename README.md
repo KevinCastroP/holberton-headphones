@@ -40,9 +40,9 @@ Here the final result:</p>
 <h3>This project was carried out by:</h3>
 <br>
 <p>
-    <strong>Jhonatan S. Legarda Cruz</strong><br>
-    <a href="https://github.com/steven-cruz"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/github.png?raw=true" alt="icono github" width="25"></a>
-    <a href="https://twitter.com/JhonatanLegarda"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/twitter.png?raw=true" alt="icono twitter" width="25"></a>
+    <strong>Kevin Castro</strong><br>
+    <a href="https://github.com/KevinCastroP"><img src="https://github.com/KevinCastroP/holberton-headphones/blob/master/images/github.png?raw=true" alt="icono github" width="25"></a>
+    <a href="https://twitter.com/ccali_k"><img src="https://github.com/KevinCastroP/holberton-headphones/blob/master/images/twitter.png?raw=true" alt="icono twitter" width="25"></a>
     <br><br>
     <i><a href="https://www.holbertonschool.com/co/">Holberton School</a> Student</i>
 </p>
